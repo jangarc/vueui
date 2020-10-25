@@ -1,0 +1,12 @@
+.table-container {
+  overflow: auto;
+  max-height: 100%;
+}
+
+/* Custom */
+.bulma-cell-div{
+  display: inline-block;
+  max-width: 600px;
+  padding: 0 4px;
+  margin: auto;
+}
